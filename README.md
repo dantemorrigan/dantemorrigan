@@ -70,7 +70,9 @@
 
 ### 🧪 QA и инструменты  
 - HTTP / REST / JSON / XML / SOAP / WebSocket / GraphQL  
-- Postman, DevTools, Charles Proxy  
+- Postman (скрипты, автотесты, переменные), DevTools
+- Swagger, Redoc
+- Опыт тестирования REST API и SOAP
 - Чек-листы, тест-кейсы, баг-репорты  
 - Git, VS Code, базовый Python  
 - HTML, CSS, Telegram-боты с AI-интеграцией
