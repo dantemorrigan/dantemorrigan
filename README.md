@@ -128,8 +128,9 @@
 ---
 
 ## 📎 Дипломы и сертификаты
-<img width="841" height="611" alt="Снимок экрана 2025-07-13 в 00 30 46" src="https://github.com/user-attachments/assets/3d56c482-63f4-4731-9f93-fee118d1cf10" />
+<img width="883" height="644" alt="Снимок экрана 2025-07-13 в 00 30 46" src="https://github.com/user-attachments/assets/3d56c482-63f4-4731-9f93-fee118d1cf10" />
 <img width="883" height="644" alt="Снимок экрана 2025-07-13 в 00 33 35" src="https://github.com/user-attachments/assets/bf1ac23e-a168-4292-977e-4bbd499c4426" />
+<img width="883" height="644" alt="Снимок экрана 2025-07-15 в 15 58 53" src="https://github.com/user-attachments/assets/b53d01a3-130c-44b8-ab89-e41a91d78e9e" />
 
 ---
 
