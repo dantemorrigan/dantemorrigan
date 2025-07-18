@@ -73,7 +73,7 @@
 - Postman (скрипты, автотесты, переменные), DevTools
 - Опыт работы с PostgreSQL, MongoDB
 - Делаю SQL-запросы средней сложности (Select, Join, Group by)
-- Metabase6 Compass, Dbeaver
+- Metabase, Compass, Dbeaver
 - Swagger, Redoc
 - Sentry, Kibana, Grafana
 - Опыт тестирования REST API и SOAP
