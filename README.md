@@ -131,6 +131,8 @@
 
 ## 📎 Дипломы и сертификаты
 <img width="841" height="611" alt="bakalavr" src="https://github.com/user-attachments/assets/a4500851-716f-42ba-9d5f-260441c41d30" />
+<img width="2400" height="3392" alt="ru_cert" src="https://github.com/user-attachments/assets/53165ed6-9082-4320-9d69-36c91739df8a" />
+<img width="2400" height="3392" alt="eng_cert" src="https://github.com/user-attachments/assets/8300e942-e680-45ea-8626-c2af35678a4e" />
 <img width="1154" height="844" alt="diplom" src="https://github.com/user-attachments/assets/36e0a741-5f1e-46e8-8313-05caecc35177" />
 <img width="1152" height="842" alt="design" src="https://github.com/user-attachments/assets/1db9df4f-2ecc-4ee5-adc7-c6cf80317cf4" />
 
