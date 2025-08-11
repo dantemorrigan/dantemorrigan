@@ -28,7 +28,7 @@
 
 🛠 **GitHub-проекты** 
 
-🔹 [48-91KINO_bot](https://github.com/dantemorrigan/48-91KINO_bot) — телеграм-бот для стриминга авторского кино
+🔹 [48-91KINO_bot](https://github.com/dantemorrigan/48-91KINO_bot) — телеграм-бот для стриминга фильмов и сериалов
 
 🔹 [Cotes](https://github.com/dantemorrigan/Cotes) — минималистичное приложение для заметок
 
