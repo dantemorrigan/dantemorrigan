@@ -44,7 +44,7 @@ GDD, нарратив, взаимодействие с командой.
 
 | Проект | Описание |
 |--------|----------|
-| [48-91KINO_bot](https://github.com/dantemorrigan/48-91KINO_bot) | Телеграм-бот для стриминга авторского кино |
+| [writed.](https://github.com/dantemorrigan/writed.)| Приложение для тех, кто пишет тексты |
 | [Cotes](https://github.com/dantemorrigan/Cotes) | Минималистичное приложение для заметок |
 | [LovePulse](https://github.com/dantemorrigan/lovepulse) | Приложение для отслеживания личностных связей |
 
