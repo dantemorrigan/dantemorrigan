@@ -1,42 +1,52 @@
 <h1 align="center">Привет, я Никита 👋</h1>
-<p align="center"><i>QA-инженер · Геймдизайнер · Автор</i></p>
-<p align="center">Тестировщик с бэкграундом в геймдизайне, праве и текстах.<br>Стараюсь совмещать точность с креативом.</p>
+<p align="center"><i>Manual QA Engineer · Mobile · API</i></p>
+<p align="center">QA-инженер в релизной команде мобильного приложения Wildberries.<br>В прошлом — геймдизайнер и инди-разработчик.</p>
 
 ---
 
 ## 🧭 О себе
 
-- 🧪 **QA Engineer — RWB, команда SWAT** (Wildberries): регрессионное тестирование мобильного приложения, API, баг-репорты
-- 🎮 Выпускник курса «Геймдизайн» от GeekBrains — UE4/5, геймджемы
-- ⚖️ РГУП, Москва — юриспруденция, судебная система (2021–2025)
-- ✍️ Автор книг и статей на [DTF](https://dtf.ru/id269504) и [Дзен](https://dzen.ru/toss)
-- 🎸 Играю на электрогитаре и сочиняю [музыку](https://vk.com/music/playlist/651786960_11_48e611ceeae2033fe8)
-- 🌍 Мечтаю переехать
+- 🧪 **Manual QA в RWB (Wildberries & Russ)**: релизы iOS и Android, регресс, API и клиент-серверное взаимодействие
+- 🔍 Опыт мобильного, Web- и API-тестирования: REST и SOAP
+- 🤖 Пользуюсь AI-инструментами в работе и личных проектах: ChatGPT (с публичного релиза), Claude / Claude Code, OpenAI Codex, Midjourney, Stable Diffusion
+- 🎮 Почти 5 лет в геймдеве: от геймдизайна до релиза своей визуальной новеллы
+- ✍️ Пишу на [DTF](https://dtf.ru/id269504) и [Дзен](https://dzen.ru/toss), сочиняю [музыку](https://vk.com/music/playlist/651786960_11_48e611ceeae2033fe8)
+- 🗣 Русский — родной, английский — B1
 
 ---
 
 ## 💼 Опыт
 
-### 🧪 QA · тестирование
+### 🧪 Manual QA — [RWB (Wildberries & Russ)](https://career.wb.ru/)
+*Декабрь 2025 — настоящее время · Москва*
 
-**QA Engineer — RWB, команда SWAT**
-Регрессионное тестирование мобильного приложения Wildberries. Postman, Proxyman, работа с API, баг-репорты, взаимодействие с командой разработки.
+Релизная команда мобильного приложения Wildberries: стабильность релизов iOS и Android, полный цикл регресса перед выходом версий.
 
-### 🎮 Игровая индустрия
+- Функциональное, регрессионное, smoke- и кросс-стримовое тестирование ключевых сценариев: карточка товара, корзина, оформление заказа, оплата, доставка, миграции между версиями
+- Закреплён за стримом «Карточка товара» и отвечаю за его регрессионное покрытие. Работал с банковским стримом «Комиссионные и инвестиционные продукты»
+- Проверка новых фич, hotfix и срочных изменений перед production. Оперативное тестирование критичных инцидентов
+- Анализ и модификация API-ответов, конфигурации, feature flags, bitmask/dtype в Proxyman: перехват трафика, моки, воспроизведение состояний продукта
+- Релиз-кандидаты, QA/debug-сборки, TestFlight, разные локали и конфигурации
+- Ведение тест-кейсов в Allure TestOps, от Blocker/High до полного регресса
+- Локализую дефекты на уровне UI, сетевых запросов и серверных ответов, передаю подробные репорты продуктовым командам
 
-**Founder & Game Lead — [TOSS Studio](https://logman12.itch.io/)**
-Зарелизил [The Leather City](https://logman12.itch.io/the-leather-city) на Google Play, VK.PLAY и itch.io — полный цикл: концепт, левел-дизайн, нарратив, код, маркетинг.
+### 🎮 Гейм-дизайнер — [TOSS Studio](https://logman12.itch.io/the-leather-city)
+*Январь 2021 — ноябрь 2025 · Краснодар*
 
-**Lead Game Designer — [Callisto Games](https://vk.com/department34)**
-GDD, нарратив, взаимодействие с командой.
+Собственный инди-проект — визуальная новелла **[The Leather City](https://logman12.itch.io/the-leather-city)**: полный цикл от концепции до публикации на itch.io, VK Play и Google Play.
 
-### 🖋 Медиа и креатив
+- Игровая логика на Ren'Py и Python
+- Сценарий, персонажи, структура эпизодов, музыка и звук
+- Координация команды: художники, сценаристы
+- Документация, тестирование, полировка UI, работа с фидбеком игроков и Discord-сообществом
 
-**Editor-in-Chief — [tommorow4891](https://t.me/tommorow4891)**
-Ведение издания, редактура, контент-стратегия.
+### 🎮 Гейм-дизайнер — [Callisto Games](https://www.playground.ru/department_34)
+*Январь 2021 — январь 2022 · Краснодар*
 
-**Visual Designer — Freelance**
-Брендинг, логотипы, обложки, презентации.
+- GDD, игровые системы, механики, сюжет, диалоги и персонажи
+- Игровая экономика: стоимость ресурсов, прогрессия, награды, баланс
+- Level design: карты, зоны, маршруты игрока, точки интереса
+- Синхронизация с программистами и художниками, тестирование реализованных механик
 
 ---
 
@@ -44,7 +54,7 @@ GDD, нарратив, взаимодействие с командой.
 
 | Проект | Описание |
 |--------|----------|
-| [writed.](https://github.com/dantemorrigan/writed.)| Приложение для тех, кто пишет тексты |
+| [writed.](https://github.com/dantemorrigan/writed.) | Приложение для тех, кто пишет тексты |
 | [Cotes](https://github.com/dantemorrigan/Cotes) | Минималистичное приложение для заметок |
 | [LovePulse](https://github.com/dantemorrigan/lovepulse) | Приложение для отслеживания личностных связей |
 
@@ -52,30 +62,34 @@ GDD, нарратив, взаимодействие с командой.
 
 ## ⚙️ Навыки
 
-**QA · инструменты**
-`REST` `JSON` `XML` `SOAP` `WebSocket` `GraphQL` `Postman` `DevTools` `Swagger` `Charles` `Proxyman` `PostgreSQL` `MongoDB` `SQL` `Metabase` `DBeaver` `Sentry` `Kibana` `Grafana` `Git`
+**Тестирование**
+`Ручное тестирование` `Регрессионное тестирование` `Mobile Testing` `iOS Testing` `Android Testing` `API Testing` `A/B тесты`
+
+**Инструменты**
+`Proxyman` `Postman` `DevTools` `Allure TestOps` `YouTrack` `TestFlight` `REST API` `SOAP` `JSON` `SQL` `PostgreSQL` `Git` `GitHub`
+
+**AI**
+`ChatGPT` `Claude` `Claude Code` `OpenAI Codex` `LLM` `Prompt Engineering` `AI-assisted development` `Vibe Coding` `Midjourney` `Stable Diffusion`
 
 **Геймдизайн**
-`GDD` `Нарратив` `Механики` `Экономика` `Монетизация` `Unreal Engine 4/5` `RenPy` `Twine`
-
-**Дизайн · мультимедиа · AI**
-`Figma` `Photoshop` `Canva` `CapCut` `Sony Vegas` `ChatGPT` `Midjourney` `DALL·E` `Suno` `Промтинг`
+`GDD` `Нарратив` `Механики` `Экономика` `Level design` `Ren'Py` `Python` `Unreal Engine`
 
 ---
 
 ## 🎓 Образование
 
-- 📘 **РГУП** — Юриспруденция, судебная система (2021–2025)
-- 🎮 **GeekBrains** — «Геймдизайн»: UE4/5, экономика, геймджемы (2021–2023)
-- 🧪 **QA Studio** — «Инженер по тестированию» (2025)
+- ⚖️ **Российский государственный университет правосудия** — бакалавр, юриспруденция, подготовка специалистов для судебной системы (2025)
+- 🧪 **QA Studio** — QA Engineer, Manual QA (2025)
+- 🎮 **GeekBrains** — Game Design (2023)
 
 ---
 
 ## 📫 Контакты
 
-- 💬 Telegram: [@dante_morr](https://t.me/dante_morr1209)
+- 💬 Telegram: [@zhvaev](https://t.me/zhvaev)
 - 📧 Email: [nikitazhvaev@gmail.com](mailto:nikitazhvaev@gmail.com)
 - 🌐 Сайт: [zhvaev.ru](https://zhvaev.ru)
+- 📍 Москва · открыт к удалённой работе
 
 ---
 
