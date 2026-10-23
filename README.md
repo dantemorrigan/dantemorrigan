@@ -54,7 +54,7 @@
 
 | Проект | Описание |
 |--------|----------|
-| [writed.](https://github.com/dantemorrigan/writed.) | Приложение для тех, кто пишет тексты |
+| [sipru](https://github.com/dantemorrigan/sipru) | Приложение для тех, кто пишет тексты |
 | [Cotes](https://github.com/dantemorrigan/Cotes) | Минималистичное приложение для заметок |
 | [LovePulse](https://github.com/dantemorrigan/lovepulse) | Приложение для отслеживания личностных связей |
 
